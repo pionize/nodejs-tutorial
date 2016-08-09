@@ -1,0 +1,13 @@
+{
+  "name": "skyshi-academy",
+  "version": "1.0.0",
+  "description": "sync-async demo",
+  "author": "Andrew",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "gm": "^1.23.0",
+    "path": "^0.12.7",
+    "request": "^2.74.0"
+  }
+}
